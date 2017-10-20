@@ -1,38 +1,15 @@
 ---
-title: Hello World
+title: Hello World! O início de um blog
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Chega um dia em que você se cansa de tanto ler, assistir, ingerir e consumir tanto conteúdo e não criar...
+Esse dia chegou pra mim é é por isso que resolvi criar esse blog! Quero compartilhar um pouco da minha
+experiência na área de tecnologia, além de passar algumas dicas e opiniões sobre desenvolvimento em geral de um jeito bem descontraído e informal, entre outras coisas totalmente off-topic.
 
-## Quick Start
+### Tá, mas quem é você?
+Meu nome é Victor Pedrazzi, sou formado em Análise e Desenvolvimento de Sistemas pela UNICAMP. Sou adepto de
+open source (github :heart:), uso bastante e contribuo sempre que possível. Meu foco é JS, Node, React, React Native e essas paradas, mas claro que sempre aberto a testar coisas diferentes!
+Fã de RPGs, já joguei muito Tibia, Ragnarok e World of Warcraft (FOR THE ALLIANCE!) e tenho uma quedinha por videogames antigos, tendo zerado os Final Fantasy de I a VI, saga Terranigma, Chrono Trigger e mais um monte aí.
+Curto desde black metal a um flashback dance 80's (me julgue), então indicações musicais são sempre bem vindas!
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+### Legal, quero te seguir no github!
+Só vai! Clica [aqui](http://github.com/vspedr). Não tem muita coisa lá ainda, por enquanto, mas espero futuramente criar alguns tutoriais e disponibilizar repositórios de exemplo.
